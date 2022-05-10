@@ -1,0 +1,91 @@
+body {
+	margin: 0px;
+}
+
+#header {
+	text-align: center;
+	border-top: 3px black solid;
+	border-bottom: 1px solid black;
+}
+
+#date {
+	color: lightgray;
+	font-family: orelega one;
+	margin: 0px;
+	font-size: 14px;
+}
+
+#byline {
+	color: gray;
+	font-family: orelega one;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+.container {
+	font-family: georgia, serif;
+}
+
+.col-md-7 {
+	border: 1px solid black;
+}
+
+#graph-one {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.col-md-5 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#one {
+	border-bottom: 1px solid black;
+}
+
+#row-three {
+	border-bottom: 1px solid black;
+}
+
+#graphictwo {
+	border: 1px solid black;
+}
+
+#rowfour {
+	border-bottom: 3px solid black;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+p {
+	font-size: 14px;
+}
+
+.source {
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 10px;
+}
+
+h2 {
+	padding-top: 10px;
+}
+
+.sourceinfo {
+	font-weight: bold;
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
